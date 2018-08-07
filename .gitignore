@@ -1,0 +1,4 @@
+# Ignore files listed below:
+geocoder.csv
+reviews_cleaned.csv
+reviews.csv
